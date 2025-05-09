@@ -42,14 +42,15 @@ Hosting: Replit
 - The application will be accessible at http://127.0.0.1:5000/.
 
 ## Project Structure
-supervillain-trading-card-app/
-├── static/
-│   └── styles.css
-├── templates/
-│   └── index.html
-├── main.py
-├── requirements.txt
-└── README.md
+- supervillain-trading-card-app/
+- ├── static/
+- │   └── styles.css
+- ├── templates/
+- │   └── index.html
+- ├── main.py
+- ├── requirements.txt
+- └── README.md
+  
 main.py: The main Flask application file.
 
 templates/index.html: The HTML template for rendering the frontend.
