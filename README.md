@@ -1,9 +1,8 @@
 # Supervillain Trading Card App
 An interactive web application that allows users to create and manage a collection of supervillain trading cards. Built with Python and Flask, this app demonstrates CRUD functionality, RESTful API integration, and dynamic content rendering using Jinja templating.
-
-## Features
 ![supervillainmain](https://github.com/user-attachments/assets/970a6e9f-d123-4bcf-bdd9-bc96c9c0ed2b)
 
+## Features
 Add Supervillains: Users can create new trading cards by providing details such as name, description, and interests.
 ![supervillain2](https://github.com/user-attachments/assets/3fa48533-f491-4d41-8f34-abb9992a7269)
 
