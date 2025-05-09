@@ -1,7 +1,7 @@
-Supervillain Trading Card App
+# Supervillain Trading Card App
 An interactive web application that allows users to create and manage a collection of supervillain trading cards. Built with Python and Flask, this app demonstrates CRUD functionality, RESTful API integration, and dynamic content rendering using Jinja templating.
 
-Features
+## Features
 Add Supervillains: Users can create new trading cards by providing details such as name, description, and interests.
 
 Delete Supervillains: Remove existing cards from the collection seamlessly.
@@ -10,7 +10,7 @@ Dynamic Rendering: Utilizes Jinja templating to display updated content without 
 
 Responsive Design: Ensures optimal viewing experience across various devices.
 
-Technologies Used
+## Technologies Used
 Backend: Python, Flask
 
 Frontend: HTML, CSS, JavaScript
@@ -21,7 +21,7 @@ Database: SQLAlchemy (SQLite)
 
 Hosting: Replit
 
-Installation
+## Installation
 Clone the repository:
 
 bash
@@ -50,7 +50,7 @@ Edit
 flask run
 The application will be accessible at http://127.0.0.1:5000/.
 
-Project Structure
+## Project Structure
 cpp
 Copy
 Edit
@@ -68,4 +68,4 @@ templates/index.html: The HTML template for rendering the frontend.
 
 static/styles.css: The CSS file for styling the application.
 
-Screenshots
+## Screenshots
