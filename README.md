@@ -29,12 +29,10 @@ Hosting: Replit
   
 ### Create a virtual environment:
 
-bash
-Copy
-Edit
-python3 -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-Install the dependencies:
+- python3 -m venv venv
+- source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+### Install the dependencies:
 
 - pip install -r requirements.txt
   
