@@ -22,14 +22,12 @@ Database: SQLAlchemy (SQLite)
 Hosting: Replit
 
 ## Installation
-Clone the repository:
+### Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/supervillain-trading-card-app.git
-cd supervillain-trading-card-app
-Create a virtual environment:
+- git clone https://github.com/yourusername/supervillain-trading-card-app.git
+- cd supervillain-trading-card-app
+  
+### Create a virtual environment:
 
 bash
 Copy
@@ -38,22 +36,14 @@ python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 Install the dependencies:
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the application:
+- pip install -r requirements.txt
+  
+### Run the application:
 
-bash
-Copy
-Edit
-flask run
-The application will be accessible at http://127.0.0.1:5000/.
+- flask run
+- The application will be accessible at http://127.0.0.1:5000/.
 
 ## Project Structure
-cpp
-Copy
-Edit
 supervillain-trading-card-app/
 ├── static/
 │   └── styles.css
