@@ -31,7 +31,7 @@ Hosting: Replit
 ### Clone the repository:
 
 - git clone (https://github.com/Jodunn1/Supervillain-card-app.git)
-- cd supervillain-trading-card-app
+- cd Supervillain-card-app
   
 ### Create a virtual environment:
 
